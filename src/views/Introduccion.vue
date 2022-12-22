@@ -8,6 +8,25 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    img(src="@/assets/curso/intro/intro-img-decorativa-01.svg").intro-decorativa-01       
+
+    .row.intro-img.justify-content-around.align-items-center.mb-4(data-aos="fade-left")
+      .col-lg-5
+        figure.p-4
+          img(src='@/assets/curso/intro/intro-img-02.svg', alt='Texto que describa la imagen')
+      .col-lg-7
+        .clr.crd-paleWhite.p-3
+          p Bienvenido, estimado aprendiz, al desarrollo de este componente formativo en el que se describirán los elementos que son necesarios para la protección en aquellos casos en los que se deben realizar trabajos en altura. Estos elementos están regulados por la normatividad vigente, en la cual también se pueden encontrar los protocolos de intervención ante accidentes como una caída. Además, se van a desarrollar conceptos teóricos como los sistemas y subsistemas de protección contra las caídas, los cuales se han consolidado a través de los años y cuentan con normas y protocolos de obligatorio cumplimientos. 
+          p Adicionalmente, se describirá la forma para realizar la inspección de los diversos equipos y elementos que se requieren en las actividades laborales. Por último, se explorará lo referente al rescate y auto rescate para brindarle los elementos teóricos necesarios para implementarlos en caso de ser necesario. Se mencionan acciones referidas a los primeros auxilios y los reportes de incidentes y/o accidentes de trabajo. 
+
+    p.mb-4 A continuación, se invita ver el siguiente video, en el que se mostrará la importancia de este tema.
+
+    .row
+      figure.mb-5.mt-3
+        .video
+         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     
 </template>
 
