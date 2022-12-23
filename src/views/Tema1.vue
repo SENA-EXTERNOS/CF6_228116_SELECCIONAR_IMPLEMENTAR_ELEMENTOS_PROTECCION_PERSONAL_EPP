@@ -10,6 +10,11 @@
     p.mb-3 El proceso de protección del personal operativo contempla la estructuración de un programa completo a este respecto.  Uno de los aspectos más importante es todo el componente legal que se describe a continuación. 
     p.mb-2 En un primer momento, se conocerán los antecedentes del marco legal que regulan el trabajo en alturas.
 
+    img(src='@/assets/curso/temas/tema1/tema1-img-decorativa-01.svg', alt='Texto que describa la imagen').tema1-img-decorativa-01
+    img(src='@/assets/curso/temas/tema1/tema1-img-decorativa-02.svg', alt='Texto que describa la imagen').tema1-img-decorativa-02
+    img(src='@/assets/curso/temas/tema1/tema1-img-decorativa-03.svg', alt='Texto que describa la imagen').tema1-img-decorativa-03
+    img(src='@/assets/curso/temas/tema1/tema1-img-decorativa-04.svg', alt='Texto que describa la imagen').tema1-img-decorativa-04
+
     .row.justify-content-around.mt-3.mb-3
       .col-lg-8
         .tabsA-01
@@ -34,7 +39,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-img-02.svg', alt='Texto que describa la imagen')(data-aos="flip-left")
-      .col-lg-8
+      .col-lg-8.index-dos
         .lineaTiempo-01
           LineaTiempoD.color-primario
             .row(numero="1" titulo="Resolución 4272 de 2021")
@@ -134,6 +139,8 @@
                 p.text-small Investigación de incidentes y accidentes de trabajo (S.A.S., 2022).                 
       .col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-img-03.svg', alt='Texto que describa la imagen')(data-aos="flip-down")
+
+    img(src='@/assets/curso/temas/tema1/tema1-img-decorativa-05.svg', alt='Texto que describa la imagen').tema1-img-decorativa-05
 
     h5.mt-3.mb-4 Trabajo en alturas
     

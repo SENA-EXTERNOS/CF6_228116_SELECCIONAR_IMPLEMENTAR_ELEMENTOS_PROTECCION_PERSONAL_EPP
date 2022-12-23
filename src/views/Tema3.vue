@@ -25,19 +25,19 @@
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema3/tema3-img-03.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/tema3-img-03.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p Siempre que los trabajadores ingresen a un área peligrosa, si tiene riesgo de caída, debe presentar un permiso de trabajo y una lista de verificación. Los empleadores o clientes deben establecer un procedimiento de aprobación del trabajo antes de comenzar cualquier trabajo de alto nivel.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema3/tema3-img-04.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/tema3-img-04.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p Según la Resolución 1409 de 2012, el trabajo seguro en altura se define en Colombia como las actividades que se realizan a una altura de 1.50 metros o más en altitudes menores, dada la alta peligrosidad de este. El trabajo seguro en altura está destinado a prevenir accidentes al permitir la confirmación de la seguridad antes de comenzar el trabajo.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema3/tema3-img-05.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/tema3-img-05.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p De acuerdo al artículo 17 de la citada resolución, con el fin de prevenir los accidentes laborales, un mecanismo es verificar y gestionar con anticipación los requisitos legales estipulados en las normas de seguridad en el trabajo en altura como actividad general.
       .col-lg-4
@@ -50,6 +50,9 @@
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p #[b Anexo]. Formato permiso trabajo en alturas
+
+    img(src='@/assets/curso/temas/tema3/tema3-img-decorativa-01.svg', alt='Texto que describa la imagen').tema3-img-decorativa-01
+    img(src='@/assets/curso/temas/tema3/tema3-img-decorativa-02.svg', alt='Texto que describa la imagen').tema3-img-decorativa-02
 
     h5.mt-3.mb-4 Formato permiso trabajo en alturas
     p.mb-3 Antes de iniciar el trabajo en alturas se debe diligenciar un formato que contiene:
@@ -145,7 +148,10 @@
                 .lista-ol--cuadro__vineta.color-vineta
                   span 19
                 | Nombre,apellido y firma del coordinador de trabajos en alturas (cuando es diferente de la persona que autoriza el trabajo).
-                      
+
+    img(src='@/assets/curso/temas/tema3/tema3-img-decorativa-03.svg', alt='Texto que describa la imagen').tema3-img-decorativa-03
+    img(src='@/assets/curso/temas/tema3/tema3-img-decorativa-04.svg', alt='Texto que describa la imagen').tema3-img-decorativa-04
+
     p.mb-3 Con base en lo anterior, es importante tener en cuenta estas consideraciones al momento de completar el formato.
     
     .row.justify-content-around.mt-3(data-aos="zoom-in-up")                

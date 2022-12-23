@@ -97,10 +97,12 @@
                 i.fas.fa-check
                 | Ausentismo.       
 
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-01.svg', alt='Texto que describa la imagen').tema2-img-decorativa-01
+
     h5.mt-3.mb-4 Medidas preventivas
 
     .row.justify-content-center.mb-3
-      .col-lg-4
+      .col-lg-4.index-dos
         img(src='@/assets/curso/temas/tema2/tema2-img-07.svg', alt='Texto que describa la imagen')(data-aos="fade-up-right")
       .col-lg-8
         p.mb-4 La manera de prevenir es el trabajador atento al entorno que lo rodea, propendiendo a su autocuidado y teniendo en cuenta:
@@ -117,6 +119,9 @@
                 i.fas.fa-check
                 | Atender al instinto de conservación.
         p Tomando la iniciativa y actuando siempre en busca del bien común, logrando cambiar los hábitos, las costumbres y las actitudes frente al cuidado de la propia vida y la del colectivo, se evitan accidentes como las caídas. 
+
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-02.svg', alt='Texto que describa la imagen').tema2-img-decorativa-02
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-03.svg', alt='Texto que describa la imagen').tema2-img-decorativa-03
 
     h5.mt-3.mb-4 Factores de riesgo
     p.mb-4 Son muchos los factores de riesgo que pueden dar lugar a una caída en altura, aunque los más habituales, de forma muy general, se pueden resumir así:     
@@ -150,19 +155,19 @@
             .row.justify-content-center.align-items-center
               .col-lg-2
                 figure.mb-4
-                  img(src='@/assets/curso/temas/tema2/tema2-img-10.svg', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/tema2-img-10.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-7
                 p Inventario de riesgos y tareas con las prácticas de seguridad para cada una de ellas.
           li.lista-margin-2
             .row.justify-content-center.align-items-center
               .col-lg-2
-                img(src='@/assets/curso/temas/tema2/tema2-img-11.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-11.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-7  
                 p Capacitación de los trabajadores, certificando sus competencias y aptitudes para hacer trabajo en alturas.  Para esto existen diferentes entidades que ofrecen cursos y entrenamientos.
           li 
             .row.justify-content-center.align-items-center
               .col-lg-2
-                img(src='@/assets/curso/temas/tema2/tema2-img-12.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-12.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-7 
                 p Evaluación y certificación médica de las condiciones en las que está el trabajador para las tareas que va a ejecutar. Vigencia mínima una vez al año y puede hacerlo el médico de la empresa. 
       .col-lg-6.lista-margin2
@@ -171,21 +176,23 @@
           li 
             .row.justify-content-center.align-items-center
               .col-lg-2
-                img(src='@/assets/curso/temas/tema2/tema2-img-13.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-13.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-7
                 p.mb-2 Control de acceso a zonas de trabajo en alturas como azoteas. Estas deben estar cerradas y aseguradas para que no se pueda ir sin autorización o control.
           li 
             .row.justify-content-center.align-items-center
               .col-lg-2
-                img(src='@/assets/curso/temas/tema2/tema2-img-14.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-14.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-7  
                 p.mt-3.mb-4 Señalización y etiquetado de las zonas de riesgo. Todas deben estar acordonadas, cerradas o con seguridad, de acuerdo a la norma (Ruiz, 2018).
           li
-  
+
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-04.svg', alt='Texto que describa la imagen').tema2-img-decorativa-04
+
     h5.mt-3.mb-4 Medidas de prevención contra caídas en alturas 
     p.mb-4 Según la Resolución 1409 de 2012, estas son las medidas de prevención contra caídas en alturas que se deben tener en cuenta:
 
-    .row.justify-content-around.mt-3.mb-4
+    .row.justify-content-around.mt-3.mb-4.index-dos
       .col-lg-9
         .tabsA-02
           TabsA.color-acento-botones
@@ -239,6 +246,8 @@
       .col-lg-3
         img(src='@/assets/curso/temas/tema2/tema2-img-15.svg', alt='Texto que describa la imagen').tema2-img-15(data-aos="fade-left")
 
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-05.svg', alt='Texto que describa la imagen').tema2-img-decorativa-05
+
     h5.mt-4.mb-4 Medidas de protección contra caídas en alturas
 
     .row.justify-content-center.mt-3.mb-4
@@ -257,42 +266,45 @@
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema2/tema2-img-17.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-17.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p Los patrones determinarán las precauciones y medidas de protección a utilizar en cada lugar de trabajo, en el cual al menos, una persona trabaje ocasional o frecuentemente en altura, que sea adecuada a las operaciones, economías y deberes del puesto de trabajo.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema2/tema2-img-18.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-18.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p Los elementos o dispositivos del sistema de protección contra caídas, deben ser compatibles entre sí en cuanto a tamaño, forma, material, forma y diámetro y, deben estar certificados.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema2/tema2-img-19.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-19.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p Dependiendo de las necesidades específicas del trabajador y la progresión del trabajo, se pueden utilizar medidas ascendentes y descendentes, o medidas horizontales o de desplazamiento. En cualquier caso, se debe utilizar cinturón de seguridad por el peligro de caída desde altura.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema2/tema2-img-20.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-20.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11  
                 p Todos los sistemas seleccionados deben permitir la distribución de la fuerza, la reducción de la fuerza de impacto, la elongación, la resistencia a los voltajes de los componentes, la resistencia a la corrosión, el aislamiento o la antiestática, según se requiera.
           li 
             .row.align-items-center
               .col-lg-1
-                img(src='@/assets/curso/temas/tema2/tema2-img-21.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-21.svg', alt='Texto que describa la imagen').numeros-listado
               .col-lg-11
                 p El equipo de protección personal para prevenir y mitigar las caídas, debe seleccionarse considerando las características individuales, los riesgos evaluados por un coordinador de altura o un trabajador específicamente calificado, espacio, posible incendio o explosión, contacto eléctrico, superficies calientes o abrasivas, trabajos de soldadura, entre otros. Asimismo, se debe tener en cuenta la condición fisiológica del individuo relevante para la tarea y su estado general de salud. También se seleccionan en función de las condiciones y procedimientos de trabajo, como levantar, dejar caer, posicionar, transferir personal y rescatar.
 
     h5.mt-3.mb-4 Medidas pasivas de protección contra caídas
 
-    .bloque-texto-g.color-secundario-r.p-3.p-sm-4.p-md-5.mb-4(data-aos="zoom-in-left")
+    .bloque-texto-g.color-secundario-r.index-dos.p-3.p-sm-4.p-md-5.mb-4(data-aos="zoom-in-left")
       .bloque-texto-g__img.bloque-img-t2(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-img-22.svg')})`}"
       )
       .bloque-texto-g__texto.bloque-txt-t2.p-4
         p.mb-0 Está diseñado para detener o atrapar a los trabajadores en el camino de una caída, sin impactar la estructura o los elementos. Requieren poca intervención de personal y en caso de caída de escombros se aplicarán redes especiales para escombros según especificaciones del fabricante. Una vez que haya decidido instalar un sistema de red de seguridad, debe hacerlo bajo la supervisión de una persona calificada que pueda soportar el impacto de la caída del trabajador, evitar chocar con los obstáculos que se encuentran debajo y controlar la seguridad. Condiciones especificadas por el fabricante, diseño de cuadrícula y distancia de caída.
+
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-06.svg', alt='Texto que describa la imagen').tema2-img-decorativa-06
+    img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-07.svg', alt='Texto que describa la imagen').tema2-img-decorativa-07
 
     h5.mt-3.mb-4 Medidas activas de protección
 

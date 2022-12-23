@@ -14,7 +14,7 @@
       .col-lg-5
         img(src='@/assets/curso/temas/tema4/tema4-img-01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")                
       .col-lg-7
-        .lista-ol
+        .lista-ol2
           ol.lista-ol--cuadro
             li.li-azul.align-items-center
               .lista-ol--cuadro__vineta
@@ -108,6 +108,8 @@
         figure.p-3
           img(src='@/assets/curso/temas/tema4/tema4-img-02.svg', alt='Texto que describa la imagen').tema4-img-02
 
+    img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-01.svg', alt='Texto que describa la imagen').tema4-img-decorativa-01
+
     h5.mt-5.mb-2  Rescate y auto rescate
                
     .row.mt-5.mb-4
@@ -137,6 +139,8 @@
       .crd.clr-yellow.mb-4
         p.p-3.mb-4 Un plan de rescate es cualquier actividad planificada, registrada, comunicada y ejecutada a los trabajadores que han caído desde una altura, debe corresponder a acciones que garanticen una respuesta regular y segura de acuerdo con las fases realizadas. Este plan de recuperación podrá ser propio o contratado, en relación con cualquier accidente o incidente que pueda ocurrir en el lugar de trabajo y su ejecución. Están diseñados para los riesgos de las operaciones realizadas en altura, requieren la asignación de equipos, brigadistas o personal capacitado para tal fin.
   
+    img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-02.svg', alt='Texto que describa la imagen').tema4-img-decorativa-02
+    img(src='@/assets/curso/temas/tema4/tema4-img-decorativa-03.svg', alt='Texto que describa la imagen').tema4-img-decorativa-03
 
     h5.margin-top-h5.mb-4 Aplicar las normas de seguridad, mantenimiento en el auto rescate       
     p.mb-4 La persona que trabaja en las alturas utilizará su propio equipo para realizar el auto rescate. Los trabajadores que sufren caídas durante el trabajo a realizar deberán:
@@ -150,7 +154,7 @@
                 .tarjeta.color--secundario.p-4
                   .row.align-items-center
                     .col-lg-3
-                      img(src='@/assets/curso/temas/tema4/tema4-img-06.svg' alt='AvatarTop')
+                      img(src='@/assets/curso/temas/tema4/tema4-img-06.svg' alt='AvatarTop').numeros-listado
                     .col-lg-9
                       p El trabajador podrá volver a subir el nivel del cual cayó (a unos cuantos centímetros a 0.60 o 0.90 metros)        
           .col-lg-6
@@ -159,7 +163,7 @@
                 .tarjeta.color--secundario.p-4
                   .row.align-items-center
                     .col-lg-3
-                      img(src='@/assets/curso/temas/tema4/tema4-img-07.svg' alt='AvatarTop')
+                      img(src='@/assets/curso/temas/tema4/tema4-img-07.svg' alt='AvatarTop').numeros-listado
                     .col-lg-9
                       p El trabajador con equipo suspendido y que no puede regresar a la estructura en la que estaba trabajando, debe tomar una cuerda de seguridad, asegurarla al lazo lateral del arnés y colocar los pies sobre ella para evitar lesiones por la suspensión. El trauma de suspensión se reduce o elimina mientras es rescatado por las personas encargadas de dicha labor.        
         
@@ -170,7 +174,7 @@
                 .tarjeta.color--secundario.p-4
                   .row.align-items-center
                     .col-lg-3
-                      img(src='@/assets/curso/temas/tema4/tema4-img-08.svg' alt='AvatarTop')
+                      img(src='@/assets/curso/temas/tema4/tema4-img-08.svg' alt='AvatarTop').numeros-listado
                     .col-lg-9
                       p.p-3 El trabajador que está suspendido del equipo, y se encontraba laborando, pero no contaba con los elementos, para evitar lesiones por ahorcamiento, debe levantar las piernas al pecho y sujetarlas con brazos y manos por 10 segundos, antes de bajar y así sucesivamente, mientras sus compañeros rescatistas lo salvan, reduciendo considerablemente la lesión por suspensión.
           .col-lg-6             
@@ -179,7 +183,7 @@
                 .tarjeta.color--secundario.p-4
                   .row.align-items-center
                     .col-lg-3
-                      img(src='@/assets/curso/temas/tema4/tema4-img-09.svg' alt='AvatarTop')
+                      img(src='@/assets/curso/temas/tema4/tema4-img-09.svg' alt='AvatarTop').numeros-listado
                     .col-lg-9
                       p.p-3 El trabajador guardará las piezas, las rotulará con el nombre, la fecha, la actividad en el momento del lanzamiento y las entregará al responsable.                
 

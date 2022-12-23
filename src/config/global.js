@@ -182,7 +182,7 @@ export default {
       referencia:
         'INFIBAGUE. (30 de noviembre de 2020). Programa de prevención y protección contra caídas en alturas. Ibagué, Tolima, Colombia',
       link:
-        'https://www.infibague.gov.co/wp-content/uploads/2022/INTEGRA/03APOYO/GH/Programa/PRG-GH-004-PROGRAMA-DE-PREVENCION-Y-PROTECION-CONTRA-CAIDAS-INFIBAGUE.pdf',
+        'https://www.infibague.gov.co/wp-content/uploads/2022/01/PROG-GH-004-PROGRAMA-DE-PREVENCION-Y-PROTECION-CONTRA-CAIDAS-INFIBAGUE-1.docx',
     },
     {
       referencia:
@@ -199,7 +199,7 @@ export default {
       referencia:
         'S.A.S., A. d. (10 de mayo de 2022). Protocolo de trabajo seguro en alturas. Agrocom. Villavicencio, Meta, Colombia.',
       link:
-        'http://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/11686/Programa',
+        'http://repository.unipiloto.edu.co/bitstream/handle/20.500.12277/11686/Programa%20de%20prevenci%C3%B3n%20y%20protecci%C3%B3n%20contra%20ca%C3%ADdas%20de%20alturas.pdf?sequence=3&isAllowed=y',
     },
     {
       referencia:
