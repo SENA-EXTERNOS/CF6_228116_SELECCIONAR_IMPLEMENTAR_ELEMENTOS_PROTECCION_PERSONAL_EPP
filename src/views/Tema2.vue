@@ -197,11 +197,9 @@
         .tabsA-02
           TabsA.color-acento-botones
             .tarjeta.color--secundario.p-4(titulo="Artículo 8")
-              h4.mb-4 Artículo 8 
               p Dentro de las medidas de prevención contra caídas de trabajo en alturas, están la capacitación, los sistemas de ingeniería para prevención de caídas, medidas colectivas de prevención, permiso de trabajo en alturas, sistemas de acceso para trabajo en alturas y trabajos en suspensión.
 
             .tarjeta.color--secundario.p-4(titulo="Artículo 8")
-              h4.mb-4 Artículo 8 
               p.mb-3 Se debe elaborar y establecer los procedimientos para el trabajo seguro en alturas, los cuales deben ser fácilmente entendibles y comunicados a los trabajadores desde los procesos de inducción, capacitación, entrenamiento y reentrenamiento con el soporte del coordinador de trabajo en alturas o de una persona calificada, para lo cual podrá consultar con los trabajadores que intervienen en la tarea.      
               p Tales procedimientos, deben ser revisados y ajustados, cuando:
               ul.margin-left-ul-tabs.lista-ul--color.color-check-verde
@@ -216,12 +214,10 @@
                   | Los indicadores de gestión así lo definan.
 
             .tarjeta.color--secundario.p-4(titulo="Artículo 9")
-              h4.mb-4 Artículo 9
               p.mb-3 Capacitación o certificación de la competencia laboral de trabajadores que realicen trabajo en alturas. Todos los trabajadores que laboren en las condiciones de riesgo que establece el artículo 1° de la presente resolución deben tener su respectivo certificado para trabajo seguro en alturas, el cual podrán obtener mediante capacitación o por certificación en la competencia laboral.
               p El trabajador que al considerar que, por su experiencia, conocimientos y desempeño en trabajo en alturas, no requiere realizar el curso de capacitación podrá optar por la evaluación de estos conocimientos y desempeño a través de un organismo certificador de competencias laborales.
 
             .tarjeta.color--secundario.p-4(titulo="Artículo 10")
-              h4.mb-4 Artículo 10
               p.mb-3 Se deben capacitar en trabajo seguro en alturas:
               ul.margin-left-ul-tabs.lista-ul--color.color-check-verde
                 li 
@@ -241,7 +237,6 @@
                   | Aprendices de formación titulada de las instituciones de formación para el trabajo, que ofrezcan programas en los que en su práctica o vida laboral pueda existir el riesgo de caída en alturas, deben ser formados y certificados en el nivel avanzado de trabajo seguro en alturas por la misma institución.                         
 
             .tarjeta.color--secundario.p-4(titulo="Artículo 11")
-              h4.mb-4 Artículo 11
               p Los programas de capacitación en protección contra caídas para trabajo seguro en alturas hacen parte de la capacitación para la seguridad industrial, por lo tanto, se regirán por las normas establecidas en el Ministerio del Trabajo.
       .col-lg-3
         img(src='@/assets/curso/temas/tema2/tema2-img-15.svg', alt='Texto que describa la imagen').tema2-img-15(data-aos="fade-left")

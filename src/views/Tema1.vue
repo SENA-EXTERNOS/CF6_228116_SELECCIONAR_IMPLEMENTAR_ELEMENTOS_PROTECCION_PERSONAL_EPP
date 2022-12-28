@@ -19,17 +19,13 @@
       .col-lg-8
         .tabsA-01
           TabsA.color-acento-botones
-            .tarjeta.color--secundario.p-4(titulo="Resolución 1409 del <br/> 23 de julio de 2012")
-              h4.mb-4 Resolución 1409 del 23 de julio de 2012 
+            .tarjeta.color--secundario.p-4(titulo="Resolución 1409 del <br/> 23 de julio de 2012") 
               p Esta Resolución establece el #[i Reglamento de seguridad para protección contra caídas en trabajo en alturas]. 
             .tarjeta.color--secundario.p-4(titulo="Resolución 1903 del <br/> 7 de junio de 2013")
-              h4.mb-4 Resolución 1903 del 7 de junio de 2013
               p Esta Resolución realiza una modificación al numeral 5 del artículo 10 y el parágrafo 4 del artículo 11 de la Resolución 1409 de 2012 y dicta otras disposiciones. 
             .tarjeta.color--secundario.p-4(titulo="Resolución 2578  de 2012")
-              h4.mb-4 Resolución 2578  de 2012
               p Esta Resolución establece los lineamientos para el cumplimiento de la Resolución 1409 del 23 de julio de 2012, la cual fue expedida por el Ministerio de Trabajo y aborda el tema del trabajo en alturas y otras disposiciones.
             .tarjeta.color--secundario.p-4(titulo="Resolución 3673 del <br/> 26 de septiembre  de 2008")
-              h4.mb-4 Resolución 3673 del 26 de septiembre  de 2008
               p Esta Resolución establece el #[i Reglamento técnico de trabajo seguro en alturas (Vanegas, 2014)].                      
       .col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-img-01.svg', alt='Texto que describa la imagen')(data-aos="flip-right")
