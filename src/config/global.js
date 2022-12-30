@@ -175,8 +175,9 @@ export default {
   referencias: [
     {
       referencia:
-        'Epp Seguridad industrial. (24 de agosto de 2020). Seguridad y salud en el trabajo. Epp Seguridad industrial.',
-      link: 'https://eppseguridadindustrial.com/Blog/permisoalturas',
+        'Gestión integral de los elementos de protección personal (epp) ministerio de salud y protección social bogotá, julio de 2021 proceso gestión el talento humano código gths02 documento soporte gestión integral de los elementos de protección personal (epp) versión 02. (n.d.). Gov.co',
+      link:
+        'https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf',
     },
     {
       referencia:
