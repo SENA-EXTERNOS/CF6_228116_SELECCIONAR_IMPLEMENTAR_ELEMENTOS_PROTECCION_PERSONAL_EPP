@@ -3,12 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 Implementar un plan de prevención de caídas y trabajos en altura, consiste en utilizar el equipo de protección personal adecuado, completar formularios y plantillas que muestren el proceso y conocer las medidas y precauciones de seguridad, normas y ambiente de trabajo que minimicen los distintos riesgos que puedan presentarse, combinan los elementos de protección personal para la seguridad y salud en el trabajo. 
+    p.mb-5 El siguiente mapa integra los conceptos más relevantes de la información expresada en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
