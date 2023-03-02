@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="187.152" height="469.135" viewBox="0 0 187.152 469.135">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e7d87"/>
+      <stop offset="1" stop-color="#43b8c8"/>
+    </linearGradient>
+    <filter id="Trazado_736394">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#2c2a2a" flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_933258" data-name="Grupo 933258" transform="translate(13364.847 22488.223)">
+    <g id="Grupo_933257" data-name="Grupo 933257" transform="translate(-4052.503 -34803.254) rotate(-99)" opacity="0.57">
+      <path id="Trazado_736393" data-name="Trazado 736393" d="M472.29,0H0" transform="translate(-10716.138 -11066.24) rotate(180)" fill="none" stroke="#3c9aa7" stroke-width="4"/>
+      <g data-type="innerShadowGroup">
+        <path id="Trazado_736394-2" data-name="Trazado 736394" d="M154.873,101.91l-53.257,53.411a28.273,28.273,0,0,1-40.062,0L8.3,101.91a28.473,28.473,0,0,1,0-40.179L61.553,8.321a28.272,28.272,0,0,1,40.062,0l53.257,53.41A28.468,28.468,0,0,1,154.873,101.91Z" transform="translate(-10859.16 -10984.703) rotate(180)" opacity="0.999" fill="url(#linear-gradient)"/>
+        <g transform="matrix(-0.16, 0.99, -0.99, -0.16, -10706.64, -11124.19)" filter="url(#Trazado_736394)">
+          <path id="Trazado_736394-3" data-name="Trazado 736394" d="M154.873,101.91l-53.257,53.411a28.273,28.273,0,0,1-40.062,0L8.3,101.91a28.473,28.473,0,0,1,0-40.179L61.553,8.321a28.272,28.272,0,0,1,40.062,0l53.257,53.41A28.468,28.468,0,0,1,154.873,101.91Z" transform="translate(161.63 128.82) rotate(81)" fill="#fff" opacity="0.999"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

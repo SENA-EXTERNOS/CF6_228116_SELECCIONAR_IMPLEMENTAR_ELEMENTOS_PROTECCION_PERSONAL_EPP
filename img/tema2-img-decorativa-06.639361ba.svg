@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145.552" height="140.744" viewBox="0 0 145.552 140.744">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e7d87"/>
+      <stop offset="1" stop-color="#43b8c8"/>
+    </linearGradient>
+    <filter id="Trazado_736394">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-color="#2c2a2a" flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_933258" data-name="Grupo 933258" transform="translate(12227.904 8635.904)">
+    <g id="Grupo_933257" data-name="Grupo 933257" transform="translate(-12270.496 -23521.416) rotate(-138)" opacity="0.86">
+      <path id="Trazado_736393" data-name="Trazado 736393" d="M149.777,0V.33s2.237.115-42.236.114H0" transform="translate(-9995.592 -11035.132) rotate(180)" fill="none" stroke="#3c9aa7" stroke-width="4"/>
+      <g data-type="innerShadowGroup">
+        <path id="Trazado_736394-2" data-name="Trazado 736394" d="M94.446,62.148,61.969,94.72a17.242,17.242,0,0,1-24.431,0L5.059,62.148a17.364,17.364,0,0,1,0-24.5L37.537,5.074a17.241,17.241,0,0,1,24.431,0L94.446,37.646A17.36,17.36,0,0,1,94.446,62.148Z" transform="translate(-10045.215 -10985.679) rotate(180)" opacity="0.4" fill="url(#linear-gradient)"/>
+        <g transform="matrix(-0.74, 0.67, -0.67, -0.74, -9992, -11033.59)" filter="url(#Trazado_736394)">
+          <path id="Trazado_736394-3" data-name="Trazado 736394" d="M94.446,62.148,61.969,94.72a17.242,17.242,0,0,1-24.431,0L5.059,62.148a17.364,17.364,0,0,1,0-24.5L37.537,5.074a17.241,17.241,0,0,1,24.431,0L94.446,37.646A17.36,17.36,0,0,1,94.446,62.148Z" transform="translate(71.6 0) rotate(42)" fill="#fff" opacity="0.4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
