@@ -8,15 +8,15 @@
       h1 Caídas
 
 
-    p En el siguiente video se explican algunas generalidades de las caídas en el ámbito laboral.
+    p En el siguiente video se explican algunas generalidades de las caídas en el ámbito laboral:
 
     .row
       figure.mb-5.mt-3
         .video
          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .titulo-segundo.color-primario
-      h2 Tipos de Caídas
+    
+    h3 Tipos de caídas
 
     p.mb-4 Los tipos de caídas más frecuentes se reconocen por:
 
@@ -48,23 +48,21 @@
         .cajon.color-secundario.p-3
           .p-3
             p #[strong ¿Por qué se producen las caídas?]
-            p Estas caídas se presentan cuando hay un nivel más alto que el suelo. Se incluye cualquier elemento que tenga una altura mayor de 50 cm, tanto sillas, escaleras y muebles. Hay un sinnúmero de casos de caídas de distinto nivel, como las que se presentan por rodarse por las escaleras, resbalarse de un techo, entre otros.
+            p Las caídas se pueden producir por condiciones o actos inseguros. Las condiciones inseguras son situaciones que se presentan en el lugar de trabajo y que se caracterizan por la presencia de riesgos no controlados, los cuales pueden causar tanto accidentes de trabajo como enfermedades profesionales. Otra posible causa son los actos inseguros, los cuales hace la persona que trabaja de forma incorrecta o inapropiada y, por lo tanto, hacen que sea más probable un accidente de trabajo. 
 
-    p.mb-3 En la siguiente infografía se muestra cómo puede clasificarse cada uno.
+    p.mb-3 En la siguiente infografía se muestra cómo puede clasificarse cada uno:
 
-    .row.justify-content-around.align-items-center.my-5
+    .row.justify-content-around.align-items-center.my-5.mb-5
       .col-auto
         img(src="@/assets/curso/temas/tema2/info_caidas.svg")
 
 
-    Separador
+    
+    h3 Consecuencias de las caídas
 
-    .titulo-segundo.color-primario
-      h2 Consecuencias de las caídas
+    p.mb-5 Los resultados que se generan a partir de las caídas se pueden dividir en tres categorías:
 
-    p.mb-3 Los resultados que se generan a partir de las caídas se pueden dividir en tres categorías:
-
-    .row.justify-content-center.mt-3.mb-4(data-aos="fade-right")
+    .row.justify-content-center.mt-3.mb-5(data-aos="fade-right")
       .col-lg-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/tema2-img-04.svg' alt='AvatarTop')
@@ -111,13 +109,9 @@
 
     img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-01.svg', alt='Texto que describa la imagen').tema2-img-decorativa-01
 
+    h3.mb-5 Medidas preventivas
 
-    Separador
-
-    .titulo-segundo.color-primario
-      h2 Medidas preventivas
-
-    .row.justify-content-center.mb-3
+    .row.justify-content-center.mb-5
       .col-lg-4.index-dos
         img(src='@/assets/curso/temas/tema2/tema2-img-07.svg', alt='Texto que describa la imagen')(data-aos="fade-up-right")
       .col-lg-8
@@ -139,11 +133,7 @@
     img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-02.svg', alt='Texto que describa la imagen').tema2-img-decorativa-02
     img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-03.svg', alt='Texto que describa la imagen').tema2-img-decorativa-03
 
-    Separador
-
-
-    .titulo-segundo.color-primario
-      h2 Factores de riesgo
+    h3 Factores de riesgo
 
     p.mb-4 Son muchos los factores de riesgo que pueden dar lugar a una caída en altura, aunque los más habituales, de forma muy general, se pueden resumir así:
 
@@ -171,7 +161,7 @@
 
     p.mb-3 Si no puede evitarse la exposición al riesgo hay que proponer un tratamiento adecuado del mismo, que incluya:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         ol.lista-ol--cuadro.lista-ol--separador
           li
@@ -213,10 +203,7 @@
 
     img(src='@/assets/curso/temas/tema2/tema2-img-decorativa-04.svg', alt='Texto que describa la imagen').tema2-img-decorativa-04
 
-    Separador
-
-    .titulo-segundo.color-primario
-      h2 Medidas de prevención contra caídas en alturas
+    h3 Medidas de prevención contra caídas en alturas
 
     p Las medidas de protección contra caídas en altura se toman para reducir los riesgos y prevenir o evitar las caídas. Son implementadas para prevenir o minimizar los efectos de un accidente. El uso de salvaguardas no exime a los empleadores de la obligación de tomar precauciones, según se identifiquen como necesarias y alcanzables en el sistema de gestión de seguridad y salud ocupacional SG-OHS.
 

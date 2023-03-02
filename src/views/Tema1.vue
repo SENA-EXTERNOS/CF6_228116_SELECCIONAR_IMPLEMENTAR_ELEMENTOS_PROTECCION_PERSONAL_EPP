@@ -7,9 +7,6 @@
         span 1
       h1 Implementar programa de protección contra caídas
 
-    .titulo-segundo.color-primario
-      h2 Marco Legal
-
     p.mb-3 El proceso de protección del personal operativo contempla la estructuración de un programa completo a este respecto.  Uno de los aspectos más importante es todo el componente legal que se describe a continuación.
     p.mb-2 Conozca los antecedentes del marco legal que regulan el trabajo en alturas:
 
@@ -140,12 +137,7 @@
         img(src='@/assets/curso/temas/tema1/tema1-img-03.svg', alt='Texto que describa la imagen')(data-aos="flip-down")
 
 
-    Separador
-
-    .titulo-segundo.color-primario
-      h2 ¿Qué es el trabajo en alturas?
-
-
+    h2.mb-5 ¿Qué es el trabajo en alturas?
 
     .position-relative.mb-5
 
@@ -171,7 +163,7 @@
 
     p.mb-3 Las medidas de protección contra caídas deben cumplir con los siguientes requerimientos:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-centerr.mb-4
       .col-lg-6
         ol.lista-ol--cuadro.lista-ol--separador
           li
@@ -194,7 +186,7 @@
                 img(src='@/assets/curso/temas/tema1/tema1-img-07.svg', alt='Texto que describa la imagen')(data-aos="fade-right")
               .col-lg-7
                 p Todo sistema seleccionado necesita distribución de fuerza para amortiguar la fuerza de impacto, elongación, resistencia de los componentes a tensión, corrosión.
-      .col-lg-6.lista-margin
+      .col-lg-6
         ol.lista-ol--cuadro.lista-ol--separador
           li
           li

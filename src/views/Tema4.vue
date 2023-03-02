@@ -179,7 +179,7 @@
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema4/tema4-img-06.svg' alt='AvatarTop').numeros-listado
                     .col-lg-9
-                      p El trabajador intentará subir nuevamente al nivel del cual cayó (a unos cuantos centímetros a 0.60 o 0.90 metros)
+                      p El trabajador intentará subir nuevamente al nivel del cual cayó (a unos cuantos centímetros a 0.60 o 0.90 metros).
           .col-lg-6
             .avatar-01
               .tarjeta-avatar
