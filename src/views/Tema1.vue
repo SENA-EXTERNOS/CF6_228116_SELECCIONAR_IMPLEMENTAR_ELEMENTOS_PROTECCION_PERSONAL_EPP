@@ -28,13 +28,13 @@
             .tarjeta.color--secundario.p-4(titulo="Resolución 3673 del <br/> 26 de septiembre  de 2008")
               p Esta Resolución establece el #[i Reglamento técnico de trabajo seguro en alturas (Vanegas, 2014)].
       .col-lg-4
-        img(src='@/assets/curso/temas/tema1/tema1-img-01.svg', alt='Texto que describa la imagen')(data-aos="flip-right")
+        img(src='@/assets/curso/temas/tema1/tema1-img-01.jpg', alt='Texto que describa la imagen')(data-aos="flip-right")
 
     p.mb-3 El trabajo en alturas está estandarizado por una serie de normas y reglamentos, los cuales se listan a continuación:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
-        img(src='@/assets/curso/temas/tema1/tema1-img-02.svg', alt='Texto que describa la imagen')(data-aos="flip-left")
+        img(src='@/assets/curso/temas/tema1/tema1-img-02.png', alt='Texto que describa la imagen')(data-aos="flip-left")
       .col-lg-8.index-dos
         .lineaTiempo-01
           LineaTiempoD.color-primario
@@ -134,7 +134,7 @@
               .col-md-12
                 p Investigación de incidentes y accidentes de trabajo (S.A.S., 2022).
       .col-lg-4
-        img(src='@/assets/curso/temas/tema1/tema1-img-03.svg', alt='Texto que describa la imagen')(data-aos="flip-down")
+        img(src='@/assets/curso/temas/tema1/tema1-img-03.png', alt='Texto que describa la imagen')(data-aos="flip-down")
 
 
     h2.mb-5 ¿Qué es el trabajo en alturas?
@@ -145,7 +145,7 @@
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
         .bloque-texto-g__img.bloque-img1(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-04.svg')})`}"
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tema1-img-04.jpg')})`}"
         )
         .bloque-texto-g__texto.bloque-txt-1.p-4
           p.mb-0 El trabajo en alturas se puede definir como las actividades realizadas por un empleado en suspensión o al desplazarse y que representen riesgo de caída desde lugares superiores a 1.5 metros desde los planos horizontales más cercanos a quien realiza la tarea. Como contextualización general, durante el diseño de un programa para regular el trabajo en alturas, se destacan aspectos muy relevantes para prestar atención, los cuales se exponen a continuación:
@@ -217,7 +217,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
-        img(src='@/assets/curso/temas/tema1/tema1-img-11.svg', alt='Texto que describa la imagen')(data-aos="fade-up")
+        img(src='@/assets/curso/temas/tema1/tema1-img-11.jpg', alt='Texto que describa la imagen')(data-aos="fade-up")
       .col-lg-8
         p.mb-4 Son los equipos que lleva el trabajador para la protección ante los riesgos que amenacen su seguridad o su salud. Protegen el cuerpo, para evitar tener contacto directo impidiendo lesiones o enfermedades.
         p Los elementos de protección personal se conocen como EPP por sus siglas. Aquellos que son destinados para el trabajo en altura son de carácter obligatorio para realizar cualquier trabajo a una altura que supere los 1,8 metros por encima del nivel del piso. Por esta razón, se deben conocer los diferentes EPP que se necesitan en los trabajos de este tipo, hacerles un correcto mantenimiento y ayudar a que más personas se concienticen acerca de la importancia de hacer uso correcto de ellos.
@@ -234,7 +234,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-12.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema1/tema1-img-12.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
           .row.justify-content-center.my-lg-4
             .col-md-5.mb-4.mb-md-0
@@ -259,7 +259,7 @@
                   | Resistencia: 2.500 Kg.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-13.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema1/tema1-img-13.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
           .row.justify-content-center.my-lg-4
             .col-md-5.mb-4.mb-md-0
@@ -268,7 +268,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-14.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema1/tema1-img-14.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
           .row.justify-content-center.my-lg-4
             .col-md-5.mb-4.mb-md-0
@@ -276,7 +276,7 @@
               p Este elemento es deslizante y puede desplazarse en un solo sentido. Adicionalmente, tiene doble traba de seguridad, lo cual permite que quien esté trabajando se asegure a la línea de vida, que recorre la ruta tanto de ascenso como de descenso. Este elemento se debe conectar al arnés del trabajador a través del uso de un mosquetón de seguridad. Como objetivo final de este elemento está la detención de la caída del trabajador a partir de un bloqueo automático sobre la línea de vida.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-15.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema1/tema1-img-15.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
           .row.justify-content-center.my-lg-4
             .col-md-5.mb-4.mb-md-0
@@ -285,7 +285,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-16.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema1/tema1-img-16.jpg', alt='Texto que describa la imagen')(data-aos="fade-left")
 
     .row.mt-3.mb-3(data-aos="fade-up").mb-5
       .col-lg-11
@@ -306,7 +306,7 @@
       .col-lg-11
         .row.justify-content-center.mb-5
           .col-lg-5
-            img(src="@/assets/curso/temas/tema1/tema1-img-18.svg")(data-aos="fade-up")
+            img(src="@/assets/curso/temas/tema1/tema1-img-18.jpg")(data-aos="fade-up")
           .col-lg-7
             p.mb-3 La finalidad de un sistema de protección contra caídas es básicamente proteger al trabajador en caso de que se genere un evento inesperado. De este modo, permite detenerlo sin que se ocasionen daños corporales. Para establecer un sistema efectivo, es necesario conocer las características de la actividad a desarrollar. Así se podrá definir si se requiere un proceso enfocado en la detención de la caída, en la restricción y en el posicionamiento, o simplemente  aquel que permita la suspensión del trabajador. Esto lo podrá determinar una persona especializada y con experiencia en trabajos en alturas.
             p A diario se cometen errores cuando se elaboran e implementan sistemas de protección contra caídas o no se cuenta con la formación, experiencia suficiente o una normatividad, produciendo como consecuencia que la protección del trabajador sea ineficiente, lo cual hace que el sistema falle y ocasione daños severos a futuro.
@@ -319,7 +319,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-19.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tema1-img-19.jpg', alt='Texto que describa la imagen')
             .col-md-6
               p Están diseñados e instalados por personal idóneo, son resistentes ante la fuerza de una caída. Los anclajes son la base principal de equipos conectores, por consiguiente, deben tener la forma y tamaño adecuados.       Además, deben ser estructuras a las que se les adecua un dispositivo de anclaje portátil. Pueden dividirse entre puntos fijos y puntos que permiten el desplazamiento del trabajador.
 
@@ -327,21 +327,21 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-20.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tema1-img-20.jpg', alt='Texto que describa la imagen')
             .col-md-6
               p Elaborados para ser utilizados de acuerdo con el sistema de protección contra caídas que se requiera. Su objetivo es unir el arnés a un punto de anclaje, por esto, un equipo conector podrá ir desde un mosquetón hasta una cinta con absorbente de choque. Según su composición, existen equipos conectores especializados de diferentes materiales. Su resistencia mínima debe ser 5.000 libras (2.272 Kg).
         .py-3.py-md-4(titulo="Arneses")
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-21.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tema1-img-21.jpg', alt='Texto que describa la imagen')
             .col-md-6
               p Los arneses, son un conjunto de correas que conectan equipos para distribuir adecuadamente las cargas ocasionadas por una caída, llevando la mayor cantidad de energía a la pelvis. Escoger el mejor arnés es fundamental para garantizar la seguridad del trabajador.
         .py-3.py-md-4(titulo="Rescate")
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/tema1/tema1-img-22.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tema1-img-22.jpg', alt='Texto que describa la imagen')
             .col-md-6
               p El rescate es la última parte del sistema y es un aspecto esencial e importante. Cuando, por alguna razón, se presenta un accidente, la necesidad de realizar una operación de rescate debe ser segura, oportuna y efectiva. Se debe contar con un plan de rescate, personal entrenado y con equipos adecuados para ayudar a un trabajador que haya caído y se encuentre colgando de sus equipos.
 

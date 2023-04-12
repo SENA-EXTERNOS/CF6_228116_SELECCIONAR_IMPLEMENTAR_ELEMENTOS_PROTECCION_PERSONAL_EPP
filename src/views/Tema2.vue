@@ -32,7 +32,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/tema2-img-01.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-01.png', alt='Texto que describa la imagen')
 
           .row.justify-content-center.my-lg-4
             .col-md-5.mb-4.mb-md-0
@@ -41,7 +41,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/tema2-img-02.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/tema2-img-02.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.my-4
       .col-lg-10
@@ -65,7 +65,7 @@
     .row.justify-content-center.mt-3.mb-5(data-aos="fade-right")
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/tema2-img-04.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/tema2-img-04.png' alt='AvatarTop')
           .tarjeta.color--secundario.p-4
             h4.margin-left-h4-avatar.p-3 Físicas
             ul.margin-left-ul-avatar.lista-ul--color.color-check-verde
@@ -80,7 +80,7 @@
                 | Heridas y politraumatismo.
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/tema2-img-05.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/tema2-img-05.png' alt='AvatarTop')
           .tarjeta.color--secundario.p-4
             h4.margin-left-h4-avatar.p-3 Psicológicas
             ul.margin-left-ul-avatar.lista-ul--color.color-check-verde
@@ -93,7 +93,7 @@
 
       .col-lg-4
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema2/tema2-img-06.svg' alt='AvatarTop')
+          img(src='@/assets/curso/temas/tema2/tema2-img-06.png' alt='AvatarTop')
           .tarjeta.color--secundario.p-4
             h4.margin-left-h4-avatar.p-3 Productivas
             ul.margin-left-ul-avatar.lista-ul--color.color-check-verde
@@ -150,7 +150,7 @@
       .row.mt-3.mb-3(data-aos="fade-down-left")
         .col-lg-1
           figure.p-3
-            img(src='@/assets/curso/temas/tema2/tema2-img-09.svg', alt='Texto que describa la imagen').tema2-img-09
+            img(src='@/assets/curso/temas/tema2/tema2-img-09.jpg', alt='Texto que describa la imagen').tema2-img-09
 
         .col-lg-11
           .row.color-secundario-r.justify-content-around
@@ -306,7 +306,7 @@
 
     .bloque-texto-g.color-secundario-r.index-dos.p-3.p-sm-4.p-md-5.mb-4(data-aos="zoom-in-left")
       .bloque-texto-g__img.bloque-img-t2(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-img-22.svg')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tema2-img-22.jpg')})`}"
       )
       .bloque-texto-g__texto.bloque-txt-t2.p-4
         p.mb-0 Estas medidas están diseñadas para detener o atrapar a los trabajadores en el camino de una caída, sin impactar la estructura o los elementos. Requieren poca intervención de personal y en caso de caída de escombros se aplicarán redes especiales para escombros según especificaciones del fabricante. Una vez se haya decidido instalar un sistema de red de seguridad, debe hacerse bajo la supervisión de una persona calificada que pueda soportar el impacto de la caída del trabajador, evitar chocar con los obstáculos que se encuentran debajo y controlar la seguridad. Existen características especificadas por el fabricante, como diseño de cuadrícula y distancia de caída.
@@ -322,12 +322,12 @@
       .col-lg-10
         .row.mt-3
           .col-lg-5
-            img(src='@/assets/curso/temas/tema2/tema2-img-23.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema2/tema2-img-23.jpg', alt='Texto que describa la imagen')
           .col-lg-7
             p Estas medidas son las que involucran la participación del trabajador, en el cual todos los elementos y equipos de protección deben ser sometidos a inspección y revisión antes de cada uso, deben contar con una resistencia mínima de 5.000 libras (22.2 #[em kilo newtons] – 2.272 Kg.), estar certificados por las instituciones competentes de nivel nacional o internacional y deben ser resistentes a la fuerza, al envejecimiento, a la abrasión, la corrosión y al calor.
 
     p.mb-4 Las principales medidas activas de protección son:
-    ul.margin-left-ul.lista-ul--color
+    ul.lista-ul--color
       li
         i.fas.fa-check
         | Punto de anclaje fijo.

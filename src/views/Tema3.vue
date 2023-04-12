@@ -9,7 +9,7 @@
 
     .row.justify-content-center.mt-3.mb-4
       .col-lg-4
-        img(src='@/assets/curso/temas/tema3/tema3-img-01.svg', alt='Texto que describa la imagen')(data-aos="flip-left")
+        img(src='@/assets/curso/temas/tema3/tema3-img-01.png', alt='Texto que describa la imagen')(data-aos="flip-left")
       .col-lg-8
         p.mb-5 Estos permisos sirven como mecanismo para establecer normas técnicas para trabajos seguros en altura con el objetivo de prevenir accidentes durante la ejecución de la misión mediante la verificación y el control de todos los aspectos relacionados con la solución.
         .clr.crd-paleYellow
@@ -41,7 +41,7 @@
               .col-lg-11
                 p De acuerdo al artículo 17 de la citada resolución, con el fin de prevenir los accidentes laborales, un mecanismo es verificar y gestionar con anticipación los requisitos legales estipulados en las normas de seguridad en el trabajo en altura como actividad general.
       .col-lg-4
-        img(src='@/assets/curso/temas/tema3/tema3-img-02.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema3/tema3-img-02.png', alt='Texto que describa la imagen')(data-aos="fade-left")
 
 
 
@@ -104,13 +104,13 @@
                   span 11
                 | Elementos de protección personal seleccionados por el empleador teniendo en cuenta los riesgos y requerimientos propios de la tarea
           .col-lg-6
-            img(src='@/assets/curso/temas/tema3/tema3-img-06.svg', alt='Texto que describa la imagen')(data-aos="fade-down-left")
+            img(src='@/assets/curso/temas/tema3/tema3-img-06.png', alt='Texto que describa la imagen')(data-aos="fade-down-left")
 
     .row.justify-content-around.mt-3.mb-4
       .col-lg-11
         .row.justify-content-around.mt-3.mb-4
           .col-lg-6
-            img(src='@/assets/curso/temas/tema3/tema3-img-07.svg', alt='Texto que describa la imagen')(data-aos="fade-down-right")
+            img(src='@/assets/curso/temas/tema3/tema3-img-07.png', alt='Texto que describa la imagen')(data-aos="fade-down-right")
           .col-lg-6
             ol.lista-ol--cuadro
               li
@@ -180,7 +180,7 @@
                 | Es importante comprender que, si las condiciones de riesgo son las mismas en las operaciones diarias, se puede utilizar una lista de verificación. Sin embargo, incluso si se realiza el mismo trabajo o se trabaja todos los días, el simple cambio de las condiciones de riesgo hace que se pierda el carácter de trabajo rutinario, por lo que se requiere un permiso de trabajo. Esta es una autorización por escrito que se emite antes de realizar las actividades, para comprobar y controlar las condiciones de trabajo, con el fin de evitar y prevenir accidentes derivados de caídas desde altura.
 
           .col-lg-4
-            img(src='@/assets/curso/temas/tema3/tema3-img-08.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/tema3-img-08.png', alt='Texto que describa la imagen')
 
 
 

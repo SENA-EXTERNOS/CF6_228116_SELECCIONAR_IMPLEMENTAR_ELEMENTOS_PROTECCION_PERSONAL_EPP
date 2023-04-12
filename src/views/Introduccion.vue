@@ -14,7 +14,7 @@
     .row.intro-img.justify-content-around.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-5
         figure.p-4
-          img(src='@/assets/curso/intro/intro-img-02.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/intro/intro-img-02.jpg', alt='Texto que describa la imagen')
       .col-lg-7
         .clr.crd-paleWhite.p-3
           p Bienvenido estimado aprendiz, al desarrollo de este componente formativo, en el que se describirán los elementos necesarios para la protección personal durante trabajos en altura. Estos elementos están regulados por la normatividad vigente, en la cual también se pueden encontrar los protocolos de intervención ante accidentes como una caída. Además, se van a desarrollar conceptos teóricos como los sistemas y subsistemas de protección contra las caídas, los cuales se han consolidado a través de los años y cuentan con normas y protocolos de cumplimiento obligatorio.
@@ -26,7 +26,7 @@
     .row
       figure.mb-5.mt-3
         .video
-         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+         iframe(width="560" height="315" src="https://www.youtube.com/embed/bBA4W4lA_iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 </template>

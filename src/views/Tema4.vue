@@ -12,7 +12,7 @@
 
     .row.justify-content-around.mt-3.mb-4
       .col-lg-5
-        img(src='@/assets/curso/temas/tema4/tema4-img-01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema4/tema4-img-01.png', alt='Texto que describa la imagen')(data-aos="fade-left")
       .col-lg-7
         .lista-ol2
           ol.lista-ol--cuadro
