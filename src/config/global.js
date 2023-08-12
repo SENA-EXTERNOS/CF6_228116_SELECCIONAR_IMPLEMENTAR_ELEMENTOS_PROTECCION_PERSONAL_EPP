@@ -188,7 +188,7 @@ export default {
     {
       referencia:
         'OIPS (s.f). ¿Qué es un sistema de protección contra caídas? OIPS. ',
-      link: 'https://www.oips.com.co/sistema-proteccion-caidas/',
+      link: '',
     },
     {
       referencia:
