@@ -219,7 +219,6 @@
       .col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-img-11.jpg', alt='Texto que describa la imagen')(data-aos="fade-up")
       .col-lg-8
-        p.mb-4 Son los equipos que lleva el trabajador para la protección ante los riesgos que amenacen su seguridad o su salud. Protegen el cuerpo, para evitar tener contacto directo impidiendo lesiones o enfermedades.
         p Los elementos de protección personal se conocen como EPP por sus siglas. Aquellos que son destinados para el trabajo en altura son de carácter obligatorio para realizar cualquier trabajo a una altura que supere los 1,8 metros por encima del nivel del piso. Por esta razón, se deben conocer los diferentes EPP que se necesitan en los trabajos de este tipo, hacerles un correcto mantenimiento y ayudar a que más personas se concienticen acerca de la importancia de hacer uso correcto de ellos.
 
     p.mb-4 Estos deben ser entregados por la empresa con la debida supervisión en cuanto a su confiabilidad y se seleccionan de acuerdo con las tareas que desarrolla el trabajador.
