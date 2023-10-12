@@ -221,7 +221,7 @@ export default {
     },
     {
       referencia:
-        'Vanegas, D. (2014). Programa de prevención y protección contra caídas Universidad EAFIT. Medlelín. ',
+        'Vanegas, D. (2014). Programa de prevención y protección contra caídas Universidad EAFIT. Medellín. ',
       link:
         'https://entrenos.eafit.edu.co/proyeccion-social/desarrollo-humano/centro-documental/vida-universitaria/talento-humano/seguridad-salud-trabajo-medicina/programa-trabajo-alturas/Documents/PROGRAMA%20DE%20PREVENCION%20Y%20PROTECCION%20CONTRA%20CAIDAS.pdf',
     },
