@@ -225,6 +225,12 @@ export default {
       link:
         'https://entrenos.eafit.edu.co/proyeccion-social/desarrollo-humano/centro-documental/vida-universitaria/talento-humano/seguridad-salud-trabajo-medicina/programa-trabajo-alturas/Documents/PROGRAMA%20DE%20PREVENCION%20Y%20PROTECCION%20CONTRA%20CAIDAS.pdf',
     },
+    {
+      referencia:
+        '<em>Sehuanes Espitia, M., Vásquez Osorio, G., & Guarín Ocampo, C. M. (2022). Propuesta de diseño de guía para el trabajo seguro en alturas para disminuir la probabilidad de accidentalidad por caída en AGE Construcciones</em> ',
+      link:
+        'https://repositorio.ecci.edu.co/bitstream/handle/001/2927/Trabajo%20de%20grado.pdf?sequence=1&isAllowed=y',
+    },
   ],
   creditos: {
     liderEquipo: [
