@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1234.948" height="531.462" viewBox="0 0 1234.948 531.462">
+  <defs>
+    <filter id="Trazado_736456" x="904.001" y="233.462" width="330.948" height="193" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_933256" data-name="Grupo 933256" transform="translate(-185.526 -3884.833)">
+    <g id="Grupo_929477" data-name="Grupo 929477" transform="translate(12.104 3386.211)" opacity="0.44">
+      <rect id="Rectángulo_313214" data-name="Rectángulo 313214" width="636.705" height="49.509" transform="translate(175.751 499.039)" fill="#feca2e"/>
+      <rect id="Rectángulo_313215" data-name="Rectángulo 313215" width="637.066" height="49.51" transform="translate(175.39 552.406)" fill="#feca2e"/>
+      <rect id="Rectángulo_313216" data-name="Rectángulo 313216" width="639.035" height="49.51" transform="translate(173.421 605.773)" fill="#feca2e"/>
+      <rect id="Rectángulo_313217" data-name="Rectángulo 313217" width="639.035" height="49.51" transform="translate(173.421 712.507)" fill="#feca2e"/>
+      <rect id="Rectángulo_313218" data-name="Rectángulo 313218" width="637.017" height="49.51" transform="translate(175.44 765.875)" fill="#feca2e"/>
+      <rect id="Rectángulo_313219" data-name="Rectángulo 313219" width="639.035" height="49.51" transform="translate(173.421 659.14)" fill="#feca2e"/>
+      <rect id="Rectángulo_313220" data-name="Rectángulo 313220" width="637" height="49.51" transform="translate(175.39 819.242)" fill="#feca2e"/>
+      <rect id="Rectángulo_313221" data-name="Rectángulo 313221" width="637.017" height="49.51" transform="translate(175.44 872.609)" fill="#feca2e"/>
+      <rect id="Rectángulo_313222" data-name="Rectángulo 313222" width="634.375" height="49.51" transform="translate(178.081 979.343)" fill="#feca2e"/>
+      <path id="Trazado_736457" data-name="Trazado 736457" d="M0,0H636.639V49.51H0Z" transform="translate(175.751 925.976)" fill="#feca2e"/>
+      <path id="Trazado_736446" data-name="Trazado 736446" d="M1123.175,498.622,1653.5,758.588l-14.376,20.627c0-16.612-515.943-230.624-515.943-230.624Z" transform="translate(-310.719)" fill="#cba124"/>
+      <path id="Trazado_736447" data-name="Trazado 736447" d="M1123.144,592.42,1634.788,811.8l-13.173,12.909c0-16.612-498.457-182.779-498.457-182.779Z" transform="translate(-310.719 -40.01)" fill="#cba124"/>
+      <path id="Trazado_736448" data-name="Trazado 736448" d="M1123.125,693.34l456.644,158.009-21.026,9.212L1123.175,742.975Z" transform="translate(-310.719 -87.463)" fill="#cba124"/>
+      <path id="Trazado_736449" data-name="Trazado 736449" d="M1121.989,884.435,1559.5,967.919v19.552l-437.472-53.465Z" transform="translate(-309.586 -172.036)" fill="#cba124"/>
+      <path id="Trazado_736450" data-name="Trazado 736450" d="M1121.837,988.272l417.781,47.327,15.177,10.89-432.958-8.741Z" transform="translate(-309.435 -222.402)" fill="#cba124"/>
+      <path id="Trazado_736451" data-name="Trazado 736451" d="M1120.875,796.7l433.846,114.734s-1.474,16.283,0,19.121-433.877-84.4-433.877-84.4Z" transform="translate(-308.453 -137.559)" fill="#cba124"/>
+      <path id="Trazado_736452" data-name="Trazado 736452" d="M1121.643,1092.323l382.189,3.991v23.663l-382.189,22.055Z" transform="translate(-309.41 -273.049)" fill="#cba124"/>
+      <path id="Trazado_736453" data-name="Trazado 736453" d="M1121.887,1181.767l418.542-28.407v23.663l-418.575,54.2Z" transform="translate(-309.435 -309.135)" fill="#cba124"/>
+      <path id="Trazado_736454" data-name="Trazado 736454" d="M1123.146,1357.946l481.8-101.561,29.112,7.59-510.884,143.17Z" transform="translate(-310.719 -378.54)" fill="#cba124"/>
+      <path id="Trazado_736455" data-name="Trazado 736455" d="M1121.879,1285.868l422.128-58.914,15.34,18.317-437.485,90.113Z" transform="translate(-309.586 -359.894)" fill="#cba124"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 185.53, 3884.83)" filter="url(#Trazado_736456)">
+      <path id="Trazado_736456-2" data-name="Trazado 736456" d="M0,19.2,282.948,0V145L0,135.4Z" transform="translate(922 248.46)" fill="#fff"/>
+    </g>
+    <text id="Factores_de_riesgo_" data-name="Factores de riesgo " transform="translate(1126.526 4219.045)" fill="#12263f" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Factores de riesgo </tspan></text>
+    <text id="Trabajos_en_Andamios_" data-name="Trabajos en Andamios  " transform="translate(224.526 3898.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17" xml:space="preserve">Trabajos en Andamios  </tspan></text>
+    <text id="Manipulación_de_Escalas_y_escaleras:_fijas_de_mano_otras" data-name="Manipulación de Escalas y escaleras: fijas, de mano, otras" transform="translate(220.526 3951.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Manipulación de Escalas y escaleras: fijas, de mano, otras</tspan></text>
+    <text id="Elevación_de_pilares_postes_torres_columnas_y_antenas" data-name="Elevación de pilares, postes, torres, columnas y antenas" transform="translate(220.526 4004.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Elevación de pilares, postes, torres, columnas y antenas</tspan></text>
+    <text id="Ingreso_a_pozos_zanjas_aberturas" data-name="Ingreso a pozos, zanjas, aberturas" transform="translate(220.526 4062.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Ingreso a pozos, zanjas, aberturas</tspan></text>
+    <text id="Trabajos_en_tejados_cubiertas_y_planos_inclinados_en_altura_Poda_de_árboles" data-name="Trabajos en tejados, cubiertas y planos inclinados en altura Poda de árboles" transform="translate(220.526 4115.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Trabajos en tejados, cubiertas y planos inclinados en altura Poda de árboles</tspan></text>
+    <text id="Trabajos_con_bordes_desprotegidos_lozas_plataformas_etc._" data-name="Trabajos con bordes desprotegidos (lozas, plataformas, etc.)" transform="translate(220.526 4168.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Trabajos con bordes desprotegidos (lozas, plataformas, etc.)</tspan></text>
+    <text id="Superficies_a_desnivel" data-name="Superficies a desnivel" transform="translate(220.526 4221.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Superficies a desnivel</tspan></text>
+    <text id="Manipulación_de_máquinas_plataformas_y_equipos_de_elevación" data-name="Manipulación de máquinas, plataformas y equipos de elevación" transform="translate(220.526 4274.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Manipulación de máquinas, plataformas y equipos de elevación</tspan></text>
+    <text id="Mantenimiento_a_depósitos_tanques_cisterna_silos_tolvas_etc." data-name="Mantenimiento a depósitos, tanques, cisterna, silos, tolvas, etc." transform="translate(220.526 4327.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Mantenimiento a depósitos, tanques, cisterna, silos, tolvas, etc.</tspan></text>
+    <text id="Pozos_y_fosos_de_ascensores_" data-name="Pozos y fosos de ascensores " transform="translate(220.526 4380.295)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Pozos y fosos de ascensores </tspan></text>
+  </g>
+</svg>
