@@ -204,7 +204,7 @@ export default {
     },
     {
       referencia:
-        'Seguros, C. (12 de mayo de 2021). Medidas activas y pasivas de protección contra caídas en altura. Colmena Seguros, 1. ',
+        '¿Conoces las medidas activas y pasivas de protección contra caídas en altura? (2021, mayo 12). Prevencionar Perú',
       link:
         'http://prevencionar.com.pe/2021/05/12/conoces-las-medidas-activas-y-pasivas-de-proteccion-contra-caidas-en-alturas/',
     },
